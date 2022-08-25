@@ -416,11 +416,6 @@ export const projects = [
         image:"scripting.jpg",
         url:"/scripting",
     }, {
-        name: "Python",
-        description:"Please check out the Python section of this portfolio",
-        image:"flask.jpeg",
-        url:"/python",
-    }, {
         name: "Selenium",
         description:"Please check out the Selenium section of this portfolio",
         image:"selenium.jpg",
@@ -436,20 +431,10 @@ export const projects = [
         image:"powerautomatedesktop.jpg",
         url:"/powerautomatedesktop",
     },  {
-        name: "Robocorp",
-        description:"Please check out the Roboorp section of this portfolio",
-        image:"robocorp.jpg",
-        url:"/robocorp",
-    },  {
         name: "UiPath",
         description:"Please check out the UiPath section of this portfolio",
         image:"uipath.jpg",
         url:"/uipath",
-    } , {
-        name: "Docker",
-        description:"Please check out the Docker section of this portfolio",
-        image:"docker.jpg",
-        url:"/docker",
     },  {
         name: "Azure Devops",
         description:"Please check out the Azure Devops development section of this portfolio (comming soon)",
