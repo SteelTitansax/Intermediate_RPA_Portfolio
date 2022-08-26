@@ -124,7 +124,6 @@ const Scripting = () =>
                                             <p className="text-center">{description}</p>
                                             <div className="text-center">
                                             <a className="btn btn-primary border button-card" href ={github}>Code</a>
-                                            <a className="btn btn-danger border button-card" href ={url}>Demo</a>
                                             </div>
                                            
                                         </div>
