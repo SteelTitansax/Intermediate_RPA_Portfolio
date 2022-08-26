@@ -19,6 +19,11 @@
       "static/chunks/main.js",
       "static/chunks/pages/index.js"
     ],
+    "/404": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/404.js"
+    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -29,10 +34,35 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/python": [
+    "/github": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/python.js"
+      "static/chunks/pages/github.js"
+    ],
+    "/powerautomate": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/powerautomate.js"
+    ],
+    "/powerautomatedesktop": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/powerautomatedesktop.js"
+    ],
+    "/scripting": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/scripting.js"
+    ],
+    "/selenium": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/selenium.js"
+    ],
+    "/uipath": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/uipath.js"
     ]
   },
   "ampFirstPages": []

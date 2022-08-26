@@ -18,17 +18,8 @@ export const skills = [
         skill: 'UiPath',
         percentage : 60,
     }, {
-        skill: 'Robocorp',
-        percentage : 60,
-    }, {
         skill: 'Azure Devops',
         percentage : 60,
-    }, {
-        skill: 'Docker',
-        percentage : 60,
-    }, {
-        skill: 'Kubernetes',
-        percentage : 50,
     }
 ]
 
@@ -173,10 +164,17 @@ export const nodeSkills = [
 
 export const experiences = [ 
     {
+        title: 'RPA Developer at OMYA - Barcelona/Spain ',
+        description : "End to end process Automations using Power Automate as DPA , Power Automate Desktop as RPA and Python libraries like Selenium Webdriver.",
+        from: "present",
+        to:"Jun 2022",
+        url:"https://www.omya.com"
+    },
+    {
         title: 'Power Automate Developer at Seidor - Barcelona/Spain',
         description : "End to end process Automations using Power Automate as DPA , Power Automate Desktop as RPA and Python libraries like Selenium Webdriver.",
-        from: "Nov 2020",
-        to:"present",
+        from: "Jun 2022",
+        to:"Nov 2020",
         url:"https://www.seidor.es/content/seidorweb/es.html"
     },{
         title: 'Cloud Automation Developer at Seidor - Barcelona/Spain ',
@@ -185,13 +183,7 @@ export const experiences = [
         to:"Nov 2020",
         url:"https://www.seidor.es/content/seidorweb/es.html"
     },
-    ,{
-        title: 'Front end Developer at Seidor - Barcelona/Spain ',
-        description : "Front end developing in Html, Css, JavaScript, React as library and Powerapps as developing tool. Using and github as a colaborative software.",
-        from: "present",
-        to:"Nov 2020",
-        url:"https://www.seidor.es/content/seidorweb/es.html"
-    }
+    
 ]
 
 export const powerappsExperiences = [ 
@@ -338,30 +330,29 @@ export const bashProjects= [
 ]
 export const angularProjects= [{}]
 export const scriptingProjects =[{
-    name: "List host script",
-    description:"python script for listing hosts in linux systems ",
-    image:"python2.jpg",
-    github:"https://github.com/ManuelPortero/python2",
-    url:"https://www.youtube.com/watch?v=YyAB7H4OH6A"
-},
-{
-    name: "List etc script",
-    description:"python script for listing etc folder in linux systems ",
-    image:"python3.jpg",
-    github:"https://github.com/ManuelPortero/python3",
-    url:"https://www.youtube.com/watch?v=tJ3aH750BP8"
-},{
-    name: "Control Users",
-    description:"Control Users Script coded in bash",
-    image:"bash1.jpg",
-    github:"https://github.com/ManuelPortero/control_grupos_bash",
-    url:"https://www.youtube.com/watch?v=cYc-NLzH1-Y"
-},{
     name: "PowerApps Report",
-    description:"Information about PowerApps Sysadmin logged in the system",
+    description:"PowerApps Sysadmin logged in the system",
     image:"powershell1.jpg",
     github:"https://github.com/ManuelPortero/powershell1",
     url:"/scripting"
+},{
+    name: "Api Flask",
+    description:"Api Flask project coded in python and linked to Sqlite",
+    image:"flask.jpeg",
+    github:"https://github.com/SteelTitansax/ApiFlask",
+    url:""
+},{
+    name: "Automation Flask App",
+    description:"Automation App coded in React and Flask",
+    image:"flask.jpeg",
+    github:"https://github.com/SteelTitansax/ApiFlask",
+    url:""
+},{
+    name: "Python Azure Function",
+    description:"Azure function retrieve data from Azure Graph (python)",
+    image:"python2.jpg",
+    github:"https://github.com/SteelTitansax/PythonAzureFunction",
+    url:""
 }
 
 ]
@@ -437,7 +428,7 @@ export const projects = [
         url:"/uipath",
     },  {
         name: "Azure Devops",
-        description:"Please check out the Azure Devops development section of this portfolio (comming soon)",
+        description:"Please check our the Azure Devops development section (comming soon)",
         image:"Devops.jpg",
         url:"/",
     }, 
