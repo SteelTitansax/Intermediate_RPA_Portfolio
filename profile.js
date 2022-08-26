@@ -173,14 +173,14 @@ export const experiences = [
     {
         title: 'Power Automate Developer at Seidor - Barcelona/Spain',
         description : "End to end process Automations using Power Automate as DPA , Power Automate Desktop as RPA and Python libraries like Selenium Webdriver.",
-        from: "Jun 2022",
-        to:"Nov 2020",
+        from: "Nov 2020",
+        to:"Jun 2022",
         url:"https://www.seidor.es/content/seidorweb/es.html"
     },{
         title: 'Cloud Automation Developer at Seidor - Barcelona/Spain ',
         description : "Developing automation processes in cloud environments using Azure Automation, Azure Devops, Power Automate Web and doing PowerShell, Python and Bash scripting . ",
-        from: "present",
-        to:"Nov 2020",
+        from: "Nov 2020",
+        to:"Jun 2022",
         url:"https://www.seidor.es/content/seidorweb/es.html"
     },
     
