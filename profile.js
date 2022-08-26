@@ -333,7 +333,7 @@ export const scriptingProjects =[{
     name: "PowerApps Report",
     description:"PowerApps Sysadmin logged in the system",
     image:"powershell1.jpg",
-    github:"https://github.com/ManuelPortero/powershell1",
+    github:"https://github.com/SteelTitansax/PowershellAdmin",
     url:"/scripting"
 },{
     name: "Api Flask",
@@ -345,13 +345,13 @@ export const scriptingProjects =[{
     name: "Automation Flask App",
     description:"Automation App coded in React and Flask",
     image:"flask.jpeg",
-    github:"https://github.com/SteelTitansax/ApiFlask",
+    github:"https://github.com/SteelTitansax/Automation_App_Launcher",
     url:""
 },{
     name: "Python Azure Function",
     description:"Azure function retrieve data from Azure Graph (python)",
     image:"python2.jpg",
-    github:"https://github.com/SteelTitansax/PythonAzureFunction",
+    github:"https://github.com/SteelTitansax/AzureFunctionGraph",
     url:""
 }
 
