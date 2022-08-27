@@ -155,16 +155,7 @@ const Index = () =>
 
           </div>                
     </div>
-    <div className="row">
-   
-          <div className="col-md-4"/>
-
-          <div className="col-md-4"> 
-                <a className=" ml-4 mt-3 bottom-link btn btn-danger text-white border button-bottom"   href="https://full-stack-port-folio.vercel.app/" > Fullstack Developer Portfolio</a>
-          </div>
-          <div className="col-md-4"/>
-
-     </div>
+    
 
     
 </Layout>
