@@ -107,7 +107,7 @@ const Scripting = () =>
 
 
                         <div className="col-md-12 mt-3">
-                            <h3 className="text-center text-white"> Bash </h3>
+                            <h3 className="text-center text-white"> Scripting </h3>
                             <div className="border-bottom"/>
                         </div>        
 

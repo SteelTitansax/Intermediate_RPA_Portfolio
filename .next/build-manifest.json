@@ -29,11 +29,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/powerautomatedesktop": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/powerautomatedesktop.js"
-    ],
     "/scripting": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
