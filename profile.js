@@ -485,12 +485,12 @@ export const powerAutomateProjects = [
         name: "Sharepoint List Deployments",
         description:"Check my powerAutomate automation",
         image:"powerautomate.jpg",
-        url:"https://www.youtube.com/watch?v=N4AsskndbWw",
+        url:"https://youtu.be/5sH9yuS99ag",
     }, {
-        name: "Planner Download Automation",
+        name: "Graph Provisioning Automation",
         description:"Check my powerAutomate automation",
         image:"powerautomate.jpg",
-        url:"https://youtu.be/pWTYR_Mnwjo",
+        url:"https://www.youtube.com/watch?v=3hXCyfrjUoc",
     }
 ]
 
