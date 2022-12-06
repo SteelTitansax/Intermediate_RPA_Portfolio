@@ -1,4 +1,6 @@
-Manuel Portero's RPA Portfolio. Here you can find the different RPA technologies that I've been working with during my career.
+# Manuel Portero's RPA Portfolio.
+
+## Here you can find the different RPA technologies that I've been working with during my career.
 
 For Setting up this portfolio clone the repo with the following command : 
 
