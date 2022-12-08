@@ -37,7 +37,7 @@ const Uipath = () =>
       
      <div className="row py-2">
         <div className="col-md-4">
-                <div className="card bg-light">
+                <div className="card bg-primary">
                     <div className="card-body card-body-skillsElectron">
                           <h3 className="text-white">Skills</h3>
                             {
@@ -60,7 +60,7 @@ const Uipath = () =>
         </div>
 
         <div className="col-md-8">
-                <div className="card bg-light">
+                <div className="card bg-primary">
                     <div className="card-body card-body-experienceElectron">
                           <h3 className="text-white">Experience</h3>
                            
@@ -121,8 +121,8 @@ const Uipath = () =>
                                             <img src={`/${image}`} alt="Imagen Portfolio1" className="card-img-top border-bottom" />
                                         </div>
                                         <div className="card-body ">
-                                            <h5 className="text-center"><strong>{name}</strong></h5>
-                                            <p className="text-center">{description}</p>
+                                            <h5 className="text-center text-white"><strong>{name}</strong></h5>
+                                            <p className="text-center text-white">{description}</p>
                                             <div className="text-center">
                                             <a className="btn btn-info border button-card" href ={url}>Enter</a>
                                             </div>

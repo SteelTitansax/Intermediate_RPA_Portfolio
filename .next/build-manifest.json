@@ -33,6 +33,16 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/powerautomate.js"
+    ],
+    "/powerautomatedesktop": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/powerautomatedesktop.js"
+    ],
+    "/uipath": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/uipath.js"
     ]
   },
   "ampFirstPages": []

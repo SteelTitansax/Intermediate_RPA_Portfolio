@@ -186,7 +186,7 @@ export const powerappsExperiences = [
         description : "End to end process Automations using Power Automate as DPA , Power Automate Desktop as RPA and Python libraries like Selenium Webdriver.",
         from: "Nov 2020",
         to:"Jun 2022",
-        url:"https://www.seidor.es/content/seidorweb/es.html"
+        url:"https://www.omya.com/"
     } ,
     {
         title: 'Power Automate Developer at Seidor - Barcelona/Spain',
@@ -195,6 +195,17 @@ export const powerappsExperiences = [
         to:"present",
         url:"https://www.seidor.es/content/seidorweb/es.html"
     }
+
+]
+
+export const uipathExperiences = [ 
+    {
+        title: 'UiPath Developer at OMYA - Barcelona/Spain',
+        description : "End to end process Automations using Power Automate as DPA , UiPath as RPA and Python libraries like Selenium Webdriver.",
+        from: "Nov 2020",
+        to:"Jun 2022",
+        url:"https://www.omya.com/"
+    } 
 
 ]
 

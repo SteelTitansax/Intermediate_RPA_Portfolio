@@ -3,5 +3,7 @@
   "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
   "/": "pages/index.js",
-  "/powerautomate": "pages/powerautomate.js"
+  "/powerautomate": "pages/powerautomate.js",
+  "/powerautomatedesktop": "pages/powerautomatedesktop.js",
+  "/uipath": "pages/uipath.js"
 }
