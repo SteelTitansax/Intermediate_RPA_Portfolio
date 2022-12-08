@@ -182,9 +182,16 @@ export const experiences = [
 
 export const powerappsExperiences = [ 
     {
-        title: 'Power Automate Developer at Seidor - Barcelona/Spain',
+        title: 'Power Automate Developer at OMYA - Barcelona/Spain',
         description : "End to end process Automations using Power Automate as DPA , Power Automate Desktop as RPA and Python libraries like Selenium Webdriver.",
         from: "Nov 2020",
+        to:"Jun 2022",
+        url:"https://www.seidor.es/content/seidorweb/es.html"
+    } ,
+    {
+        title: 'Power Automate Developer at Seidor - Barcelona/Spain',
+        description : "End to end process Automations using Power Automate as DPA , Power Automate Desktop as RPA and Python libraries like Selenium Webdriver.",
+        from: "Jun 2022",
         to:"present",
         url:"https://www.seidor.es/content/seidorweb/es.html"
     }

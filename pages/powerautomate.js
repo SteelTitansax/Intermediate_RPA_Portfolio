@@ -19,7 +19,7 @@ const PowerAutomate = () =>
                     <img src="powerautomate.jpg" className="mt-1" height="95px" alt="React perfil"/>
                 </div>
                 <div className="col-md-10">
-                    <h1 >PowerAutomate  </h1>
+                    <h1>PowerAutomate  </h1>
                     <h3>Automation Tool</h3> 
                     <h6 style={{paddingTop:'8px'}}>Power Automate is a part of Microsoft Power Platform as it is a workflow engine that uses the same connectors as in Power Apps to give you access to content for automated processing</h6>
                    
@@ -37,7 +37,7 @@ const PowerAutomate = () =>
       
      <div className="row py-2">
         <div className="col-md-4">
-                <div className="card bg-light">
+                <div className="card bg-primary">
                     <div className="card-body card-body-skillsElectron">
                           <h3 className="text-white">Skills</h3>
                             {
@@ -60,7 +60,7 @@ const PowerAutomate = () =>
         </div>
 
         <div className="col-md-8">
-                <div className="card bg-light">
+                <div className="card bg-primary">
                     <div className="card-body card-body-experienceElectron">
                           <h3 className="text-white">Experience</h3>
                            
@@ -121,8 +121,8 @@ const PowerAutomate = () =>
                                             <img src={`/${image}`} alt="Imagen Portfolio1" className="card-img-top border-bottom" />
                                         </div>
                                         <div className="card-body ">
-                                            <h5 className="text-center"><strong>{name}</strong></h5>
-                                            <p className="text-center">{description}</p>
+                                            <h5 className="text-center text-white"><strong>{name}</strong></h5>
+                                            <p className="text-center text-white">{description}</p>
                                             <div className="text-center">
                                             <a className="btn btn-info border button-card" href ={url}>Enter</a>
                                             </div>

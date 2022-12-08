@@ -3,6 +3,5 @@
   "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
   "/": "pages/index.js",
-  "/scripting": "pages/scripting.js",
-  "/selenium": "pages/selenium.js"
+  "/powerautomate": "pages/powerautomate.js"
 }

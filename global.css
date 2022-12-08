@@ -77,7 +77,7 @@
     flex: 1 1 auto;
     padding: 1rem 1rem;
     margin-top:5px!important;
-    height: 300px;
+    height: 500px;
 }
 
 .card-body-skillsFullStack{
@@ -109,7 +109,7 @@
         flex: 1 1 auto;
         padding: 0rem 1rem;
         margin-top:5px!important;
-        height: 300px;
+        height: 500px;
     }
 
     .card-body-experienceFullstack{
