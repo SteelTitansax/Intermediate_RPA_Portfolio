@@ -176,13 +176,7 @@ export const experiences = [
         from: "Nov 2020",
         to:"Jun 2022",
         url:"https://www.seidor.es/content/seidorweb/es.html"
-    },{
-        title: 'Cloud Automation Developer at Seidor - Barcelona/Spain ',
-        description : "Developing automation processes in cloud environments using Azure Automation, Azure Devops, Power Automate Web and doing PowerShell, Python and Bash scripting . ",
-        from: "Nov 2020",
-        to:"Jun 2022",
-        url:"https://www.seidor.es/content/seidorweb/es.html"
-    },
+    }
     
 ]
 

@@ -11,25 +11,37 @@ const Index = () =>
 <>
 <Layout>
 
-    {/** Header card */}
-    <header className="row">
+     {/** Header card */}
+     <header className="row">
         <div className="col-md-12">
-            <div className="card card-body bg-primary text-white">
+            <div className="card card-body bg-primary text-light">
             <div className="row">
                 <div className="col-md-2">
-                    <img src="perfil.jpeg"  className="img-fluid" alt="Imagen perfil"/>
-                    <a className="btn btn-secondary border" id="hire-button"  href="/hireme" >Hire Me</a>
+                    <div className="text-center">
+                          <img src="perfil.jpeg"  className="img-fluid" alt="Imagen perfil"/> 
+                    </div>
+                    <div className="text-center">
+                          <a className="btn btn-light border" id="hire-button" href="/hireme" >Contact</a>
+                    </div>
                 </div>
-                <div className="col-md-10">
+                <div className="col-md-8">
                     <h1 >Manuel Portero </h1>
                     <h3 >RPA Developer</h3> 
-                    <h6 style={{paddingTop:'8px'}}> I am a well educated self starter looking for work as a RPA Developer. I am an analytical,
-                    good problem solver, effective in meeting deadlines as well as managing and motivating
-                    others. I speak five languages and have experience of working in different countries and
-                    working environments. I can communicate well and share ideas with others who do not have a
-                    scientific or engineering background.</h6>
+                    <h6 style={{paddingTop:'8px',textAlign:'justify'}}> The first phase of my task as IT was working as a Full Stack Developer. 
+                    I could code in Html, css , Jquery and React in some professional projects and I performed front end tasks creating Power Pages projects and PowerApps.
+                    I used Angular Ionic and Flask in colaborative and personal projects. Please have a look to the different Demos splitted by technology and have an idea 
+                    about my Full stack developer skills.</h6>
                    
                 </div>
+
+                <div className="col-md-2">
+                    <div className="text-center">
+                          <img src="RPA.jpg"  className="img-fluid" alt="Imagen perfil"/> 
+                    </div>
+                    <div className="text-center">
+                          <a className="btn btn-light border" id="hire-button" href="https://profesionalwebsite-mpl.vercel.app/">Website</a>
+                    </div>
+                </div>  
             </div>
         </div>
     </div>
@@ -119,8 +131,8 @@ const Index = () =>
                                             <img src={`/${image}`} alt="Imagen Portfolio1" className="card-img-top border-bottom" />
                                         </div>
                                         <div className="card-body ">
-                                            <h5 className="text-center"><strong>{name}</strong></h5>
-                                            <p className="text-center">{description}</p>
+                                            <h5 className="text-center text-white"><strong>{name}</strong></h5>
+                                            <p className="text-center text-white">{description}</p>
                                             <div className="text-center">
                                             <div className="button" id="button-5">
                                                 <div id="translate"></div>
