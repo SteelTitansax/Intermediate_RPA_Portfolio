@@ -29,36 +29,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/blog": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/blog.js"
-    ],
-    "/github": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/github.js"
-    ],
-    "/powerautomate": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/powerautomate.js"
-    ],
-    "/powerautomatedesktop": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/powerautomatedesktop.js"
-    ],
-    "/scripting": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/scripting.js"
-    ],
-    "/selenium": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/selenium.js"
-    ],
     "/uipath": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
