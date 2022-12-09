@@ -220,16 +220,6 @@ export const fullstackExperiences = [
     
 ]
 
-export const nextExperiences = [ 
-    {
-        title: 'Colaborative Software Software Developer - Glasgow/UK ',
-        description : "Software developing in HTML ,CSS , JavaScript, React and NextJS for different Open Source projects ",
-        from: "Jan 2020",
-        to:"Nov 2020",
-        url:"http://plasmajs.com/"
-    }
-    
-]
 
 
 
@@ -244,76 +234,7 @@ export const bashExperiences = [
     
 ]
 
-export const powershellExperiences = [ 
-    {
-        title: 'Seidor software developer – Glasgow/UK ',
-        description : "Powershell scripting in different projects based in Microsoft Exchange Server and PowerApps.",
-        from: "Jan 2020",
-        to:"Present",
-        url:"/"
-    }
-    
-]
-export const angularExperiences = [{}]
 
-
-export const pythonExperiences = [ 
-    {
-        title: 'Colaborative Software Developer – Glasgow/UK ',
-        description : "Software developing with functional Python, Python flask and Robocorp (python) in different Open Source projects.",
-        from: "Present",
-        to:"Nov 2020",
-        url:"/"
-    }
-    
-]
-
-
-export const dockerExperiences = [ 
-    {
-        title: 'Colaborative Software Developer – Glasgow/UK ',
-        description : "Docker operations for different Open Source projects.",
-        from: "Present",
-        to:"Nov 2020",
-        url:"/"
-    }
-    
-]
-
-
-export const websiteExperiences = [ 
-    {
-        title: 'Colaborative Software Developer – Glasgow/UK ',
-        description : "Software developing in web stack for different Open Source projects.",
-        from: "Jan 2020",
-        to:"Nov 2020",
-        url:"/websites"
-    }
-    
-]
-
-
-
-
-export const reactNativeProjects= [
-    {
-        name: "React Native Chat",
-        description:"React Native Chat developed with HTML, CSS, Javascript, React Native and Firebase (Demo not Available).",
-        image:"chat.jpg",
-        github:"https://github.com/ManuelPortero/React_Native_Agenda"
-    },
-    {
-        name: "React Native Agenda",
-        description:"Agenda app developed in HTML, CSS, JavaScript, React Native and Firebase (Demo not Available)",
-        image:"agenda.jpg",
-        github:"https://github.com/ManuelPortero/React_Native_Chat"
-    }
-    
-]
-
-export const reactProjects= [{}]
-export const reactExperiences= [{}]
-export const reactSkills= [{}]
 
 
 export const bashProjects= [
@@ -340,7 +261,7 @@ export const bashProjects= [
     }
     
 ]
-export const angularProjects= [{}]
+
 export const scriptingProjects =[{
     name: "PowerApps Report",
     description:"PowerApps Sysadmin logged in the system",
@@ -386,32 +307,6 @@ export const pythonProjects= [
     
 ]
 
-export const nodeProjects= [
-    {
-        name: "CRM App ",
-        description:"CRM App coded with React NodeJs Express and MongoDB ",
-        image:"CRM.png", 
-        github:"https://github.com/ManuelPortero/Administration_system"
-    }, {
-        name: "CRM App (NewLayout) ",
-        description:"CRM App coded with React NodeJs Express and MongoDB",
-        image:"CRM2.jpg", 
-        github:"https://github.com/ManuelPortero/Administration_system_true"
-    },
-    {
-        name: "Node Social network ",
-        description:"Social network coded with React NodeJs Express and MongoDB ",
-        image:"imgshare.png", 
-        github:"https://github.com/ManuelPortero/instaManuel"
-    }, {
-        name: "Phone Catallogue ",
-        description:"Phone Catallogue coded with React NodeJs and Express ",
-        image:"phoneCatallogue.jpg", 
-        github:"https://github.com/ManuelPortero/PhoneCatalogueImproved"
-    },
-    
-]
-
 export const projects = [ 
     {
         name: "Scripting",
@@ -447,76 +342,23 @@ export const projects = [
 
 ]
 
-export const webProjects = [
-    {
-        name: "Glasgow Kelvin College",
-        description:"Glasgow Kelvin College website coded in HTML,CSS, JavaScript and Bootstrap as a framework",
-        image:"GKC.png",
-        url:"https://glasgow-kelvin-college.vercel.app/",
-        github:"https://github.com/ManuelPortero/GlasgowKelvinCollege"
-    }, {
-        name: "Bienes y Raices",
-        description:"Bienes y Raices website coded in HTML,CSS, JavaScript and Bootstrap as a framework",
-        image:"BienesRaices.png",
-        url:"https://bienes-raices-nbt6oa6ud-manuelportero.vercel.app/",
-        github:"https://github.com/ManuelPortero/Bienes_Raices"
-    },
-]
 
-export const Otherprojects = [ 
-    {
-        name: "Todo App",
-        description:"Todo App coded in HTML,CSS, JavaScript, Bootstrap and Electron",
-        image:"Electron.png",
-        github:"https://github.com/ManuelPortero/Todo_electron-"
-    }, {
-        name: "Mirror App",
-        description:"Mirror App coded in HTML,CSS, JavaScript, Bootstrap and Electron",
-        image:"Electron2.png",
-        github:"https://github.com/ManuelPortero/Mirror"
-    }
-
-]
-
-export const powerappsProjects = [ 
-    {
-        name: "PowerApps Canvas",
-        description:"Check my canvas apps catallogue",
-        image:"canvas.png",
-        url:"/canvas",
-    }, {
-        name: "PowerApps Portal",
-        description:"Check my portal app catallogue",
-        image:"portals.jpeg",
-        url:"/portals",
-    }
-]
 
 export const powerAutomateProjects = [ 
     {
-        name: "Sharepoint List Deployments",
-        description:"Check my powerAutomate automation",
-        image:"powerautomate.jpg",
-        url:"https://youtu.be/5sH9yuS99ag",
-    }, {
         name: "Graph Provisioning Automation",
         description:"Check my powerAutomate automation",
         image:"powerautomate.jpg",
-        url:"https://www.youtube.com/watch?v=3hXCyfrjUoc",
+        url:"https://youtu.be/AdqC22Itppc",
     }
 ]
 
 export const powerAutomateDesktopProjects = [ 
     {
-        name: "WebScrapper",
-        description:"Check my powerAutomate automation",
-        image:"powerautomatedesktop.jpg",
-        url:"https://youtu.be/Td7xyfqrPBU?list=PL3FqiG-8pTmETVSdn3n7qXf68sjyAbMSN",
-    }, {
         name: "MorningCheck",
         description:"Check my powerAutomate automation",
         image:"powerautomatedesktop.jpg",
-        url:"https://www.youtube.com/watch?v=QvjVvez0NgM&list=PL3FqiG-8pTmETVSdn3n7qXf68sjyAbMSN&index=21",
+        url:"https://youtu.be/zsBtN3y9wAM",
     }
 ]
 
@@ -525,7 +367,7 @@ export const uipathProjects = [
         name: "MorningCheck",
         description:"Check my Uipath automation",
         image:"uipath.jpg",
-        url:"https://www.youtube.com/watch?v=_6aeIa0yxnM&list=PL3FqiG-8pTmETVSdn3n7qXf68sjyAbMSN&index=20",
+        url:"https://youtu.be/4gZcIk--6zY",
     }
 ]
 
@@ -535,119 +377,14 @@ export const seleniumProjects = [
         name: "Web testing 1",
         description:"Check my Selenium test robot",
         image:"selenium.jpg",
-        url:"https://www.youtube.com/watch?v=8lGJ8kJAihM&list=PL3FqiG-8pTmETVSdn3n7qXf68sjyAbMSN&index=16",
+        url:"https://youtu.be/IZKGL08C40U",
     }, {
         name: "Web testing 2",
         description:"Check my Selenium test robot",
         image:"selenium.jpg",
-        url:"https://youtu.be/guzEdePVhco?list=PL3FqiG-8pTmETVSdn3n7qXf68sjyAbMSN",
+        url:"https://youtu.be/sUu4mH5HPVs",
     }
 ]
-
-
-export const dockerProjects = [ 
-    {
-        name: "MERN App Dockerization",
-        description:"Chek out the Dockerization process",
-        image:"docker.jpg",
-        url:"https://youtu.be/-PfsDpzMWQc",
-        github:"https://github.com/ManuelPortero/docker1"
-    },  {
-        name: "Airsonic Dockerization",
-        description:"Chek out the Dockerization process",
-        image:"docker2.jpg",
-        url:"https://youtu.be/863vtCSmAzE",
-        github:"https://github.com/ManuelPortero/docker2"
-    }, {
-        name: "Apache static webserver Dockerization",
-        description:"Chek out the Dockerization process",
-        image:"docker3.jpg",
-        url:"https://youtu.be/0ylH15Y596c",
-        github:"https://github.com/ManuelPortero/docker3"
-    }
-]
-
-
-
-export const terraformProjects = [ 
-    {
-        name: "Storage account terraforming",
-        description:"Chek out the terraforming process",
-        image:"terraform.jpg",
-        url:"https://github.com/ManuelPortero/terraform1",
-    },  {
-        name: "Apache Server Terraforming",
-        description:"Chek out the terraforming process",
-        image:"terraform.jpg",
-        url:"https://github.com/ManuelPortero/terraform2",
-    }
-]
-
-export const nocodeProjects = [ 
-   {
-        name: "Agenda",
-        description:"Agenda App developed with Appsheet",
-        image:"appsheet1.png",
-        url:"https://www.appsheet.com/start/41f87581-e4aa-4264-9932-0d49d4fa6f5a"
-    }, {
-        name: "Provider App",
-        description:"Provider App developed with Appshet",
-        image:"appsheet2.png",
-        url:"https://www.appsheet.com/start/568a42a8-23ef-4988-8bcd-f39e06bdef01"
-    }
-
-]
-export const fullstackProjects = [ {} ]
-
-
-export const robocorpProjects = [ 
-    {
-         name: "Backup Bot",
-         description:"Backup Bot developed with python and roborcorp as a framework",
-         image:"robocorp1.jpg",
-         url:"https://github.com/ManuelPortero/Robocorp1"
-     }, {
-         name: "Text scrapper",
-         description:"Text scrapper bot developed with python and roborcorp as a framework",
-         image:"robocorp2.jpg",
-         url:"https://github.com/ManuelPortero/Robocorp22"
-     }
- 
- ]
-
- export const nextProjects = [ 
-    {
-         name: "Portfolio",
-         description:"Portfolio App developed with NextJs",
-         image:"nextjs.jpg",
-         url:"/"
-     },
-     {
-        name: "Whatsapp clone",
-        description:"Whatsapp clone developed with NextJs (not ready yet)",
-        image:"whatsapp.jpg",
-        url:"/"
-    }
-
-
- 
- ]
-
-
- export const powerShellProjects = [ 
-    {
-         name: "SysAdmin PowerApps Report Shell",
-         description:"Powershell for retrieve information about the powerApp Sysadmin logged in the system",
-         image:"powershell1.jpg",
-         url:"https://github.com/ManuelPortero/powershell1"
-     },
-    {
-        name: "PowerApps control Shell ",
-        description:"Powershell for give and take the ownership of a powerApp",
-        image:"powershell3.jpg",
-        url:"https://github.com/ManuelPortero/powershell2"
-    }
- ]
 
 
 

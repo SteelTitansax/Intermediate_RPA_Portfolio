@@ -1,6 +1,6 @@
 import Layout from '../components/Layout'
 import Navbar from '../components/Navbar'
-import {electronSkills, powerappsExperiences, reactProjects, uipathProjects, reactNativeProjects, powerAutomateDesktopProjects, nodeProjects, nocodeProjects} from '../profile'
+import {electronSkills, uipathExperiences, reactProjects, uipathProjects, reactNativeProjects, powerAutomateDesktopProjects, nodeProjects, nocodeProjects} from '../profile'
 import Link from 'next/link'
 
 
@@ -66,7 +66,7 @@ const Uipath = () =>
                            
                           <ul>
                           {
-                              powerappsExperiences.map (({title,description,from,to,url},i) => ( 
+                              uipathExperiences.map (({title,description,from,to,url},i) => ( 
                                <div key={i}>
                                  <li>
                                     <h4 className="text-white">{title}</h4>

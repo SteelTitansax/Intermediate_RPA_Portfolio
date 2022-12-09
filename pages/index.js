@@ -130,12 +130,12 @@ const Index = () =>
                                         <div className="overflow ">
                                             <img src={`/${image}`} alt="Imagen Portfolio1" className="card-img-top border-bottom" />
                                         </div>
-                                        <div className="card-body ">
+                                        <div className="card-body">
                                             <h5 className="text-center text-white"><strong>{name}</strong></h5>
                                             <p className="text-center text-white">{description}</p>
                                             <div className="text-center">
-                                            <div className="button" id="button-5">
-                                                <div id="translate"></div>
+                                            <div className="button text-center" id="button-5">
+                                                <div id="translate text-center"></div>
                                                 <a className="text-white" href ={url}>Enter</a>
                                                 </div>
                                          </div>
