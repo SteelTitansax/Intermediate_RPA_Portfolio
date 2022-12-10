@@ -16,7 +16,7 @@ const Index = () =>
         <div className="col-md-12">
             <div className="card card-body bg-primary text-light">
             <div className="row">
-                <div className="col-md-2">
+                <div className="col-md-2 text-center">
                     <div className="text-center">
                           <img src="perfil.jpeg"  className="img-fluid" alt="Imagen perfil"/> 
                     </div>
@@ -36,7 +36,7 @@ const Index = () =>
 
                 <div className="col-md-2 text-center">
                     <div className="text-center">
-                          <img src="RPA.jpg"  className="img-fluid" alt="Imagen perfil"/> 
+                          <img src="RPA.jpg"  className="img-fluid e" alt="Imagen perfil"/> 
                     </div>
                     <div className="text-center">
                           <a className="btn btn-light border" id="hire-button" href="https://profesionalwebsite-mpl.vercel.app/">Website</a>
