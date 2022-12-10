@@ -20,7 +20,7 @@ const Index = () =>
                     <div className="text-center">
                           <img src="perfil.jpeg"  className="img-fluid" alt="Imagen perfil"/> 
                     </div>
-                    <div className="text-center">
+                    <div className="text-center pt-1">
                           <a className="btn btn-light border" id="hire-button" href="/hireme" >Contact</a>
                     </div>
                 </div>
@@ -38,7 +38,7 @@ const Index = () =>
                     <div className="text-center">
                           <img src="RPA.jpg"  className="img-fluid" alt="Imagen perfil"/> 
                     </div>
-                    <div className="text-center">
+                    <div className="text-center pt-1">
                           <a className="btn btn-light border" href="https://profesionalwebsite-mpl.vercel.app/">Website</a>
                     </div>
                 </div>  
