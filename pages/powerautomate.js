@@ -110,12 +110,11 @@ const PowerAutomate = () =>
                             <h3 className="text-center text-white"> PowerAutomate</h3>
                             <hr className="bg-white "/>
                         </div>        
-                        <div className="col-md-3 p-2" />
 
                         {
                               powerAutomateProjects.map(({name,description,image,url},i) => (
                                 
-                                    <div className="col-md-3 p-2" key={i}>
+                                    <div className="col-md-4 p-3" key={i}>
                                     <div className="card h-100">
                                         <div className="overflow ">
                                             <img src={`/${image}`} alt="Imagen Portfolio1" className="card-img-top border-bottom" />
@@ -135,7 +134,6 @@ const PowerAutomate = () =>
                           }                   
 
                         
-                    <div className="col-md-3 p-2" />
 
                     </div>
 

@@ -350,6 +350,31 @@ export const powerAutomateProjects = [
         description:"Check my powerAutomate automation",
         image:"powerautomate.jpg",
         url:"https://youtu.be/AdqC22Itppc",
+    },{
+        name: "Service Degradation Alert",
+        description:"Check my powerAutomate automation",
+        image:"powerautomate.jpg",
+        url:"https://www.youtube.com/watch?v=6TVgv71HWe0",
+    },{
+        name: "Minute Automation",
+        description:"Check my powerAutomate automation",
+        image:"powerautomate.jpg",
+        url:"https://www.youtube.com/watch?v=Xy43NMHqkcM",
+    },{
+        name: "Bulk Ai Automation",
+        description:"Check my powerAutomate automation",
+        image:"powerautomate.jpg",
+        url:"https://www.youtube.com/watch?v=sLVdUGtuHqE",
+    } ,{
+        name: "Automated Document Creation Automation",
+        description:"Check my powerAutomate automation",
+        image:"powerautomate.jpg",
+        url:"https://www.youtube.com/watch?v=FOyyHfPxPVA",
+    }, {
+        name: "Files Processing Email Alert Automation",
+        description:"Check my powerAutomate automation (Demo not available)",
+        image:"powerautomate.jpg",
+        url:"",
     }
 ]
 
