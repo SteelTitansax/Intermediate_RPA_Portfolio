@@ -34,7 +34,7 @@ const Index = () =>
                    
                 </div>
 
-                <div className="col-md-2">
+                <div className="col-md-2 text-center">
                     <div className="text-center">
                           <img src="RPA.jpg"  className="img-fluid" alt="Imagen perfil"/> 
                     </div>
@@ -147,7 +147,7 @@ const Index = () =>
                               ))
                           }
 
-                          
+
                         
 
 
