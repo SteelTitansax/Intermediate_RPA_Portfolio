@@ -390,12 +390,6 @@ export const powerAutomateDesktopProjects = [
 
 export const devopsProjects = [ 
     {
-        name: "Power platform CI/CD ",
-        description:"Check my code",
-        image:"Devops.jpg",
-        github:"https://github.com/SteelTitansax/PowerPlatform_ALM"
-    },
-    {
         name: "Uipath CI/CD pipeline",
         description:"Check my code",
         image:"Devops.jpg",
