@@ -389,11 +389,37 @@ export const powerAutomateDesktopProjects = [
 
 export const uipathProjects = [ 
     {
-        name: "MorningCheck",
-        description:"Check my Uipath automation",
+        name: "RPA0001_InteractionUsers",
+        description:"UiPath exercise based in interact with MSGraph for retrieving azure users",
+        image:"uipath.jpg",
+        github:"https://github.com/SteelTitansax/RPA0001_GraphInteractionUsers",
+        url:"https://youtu.be/45cBP2Qi0CE",
+    },{
+        name: "RPA0002_MorningCheck",
+        description:"Uipath exercise.Morning Check of libreOffice and other software.",
         image:"uipath.jpg",
         url:"https://youtu.be/4gZcIk--6zY",
-    }
+    },{
+        name: "RPA0003 Signins",
+        description:"UiPath exercise based in interact with MSGraph for retrieving azure signins",
+        image:"uipath.jpg",
+        url:"https://youtu.be/NjTy_edVLz4",
+    },{
+        name: "RPA0004 Sharepoint",
+        description:"UiPath exercise based in interact via MSGraph with an Office365 Sharepoint",
+        image:"uipath.jpg",
+        url:"https://youtu.be/_WcSZcSI9Y4",
+    },{
+        name: "RPA0005 Outlook",
+        description:"UiPath exercise based in interact via MSGraph with an Office365 Outlook",
+        image:"uipath.jpg",
+        url:"https://youtu.be/2syycbkcaiw",
+    },{
+        name: "RPA0006 Entities interaction",
+        description:"UiPath exercise based in interact with Uipath Entities ( no demo )",
+        image:"uipath.jpg",
+        url:"/",
+    },
 ]
 
 
