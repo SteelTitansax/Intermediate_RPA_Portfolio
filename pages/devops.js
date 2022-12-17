@@ -111,12 +111,12 @@ const Devops = () =>
                             <hr className="bg-white "/>
                         </div>        
                         
-                        <div className="col-md-3 p-2"/>
+                        <div className="col-md-4 p-2"/>
 
                         {
                               devopsProjects.map(({name,description,image,url,github},i) => (
                                 
-                                    <div className="col-md-3 p-2" key={i}>
+                                    <div className="col-md-4 p-2" key={i}>
                                     <div className="card h-100">
                                         <div className="overflow ">
                                             <img src={`/${image}`} alt="Imagen Portfolio1" className="card-img-top border-bottom" />
@@ -137,7 +137,7 @@ const Devops = () =>
                           }                   
 
                         
-                    <div className="col-md-3 p-2"/>
+                    <div className="col-md-4 p-2"/>
 
                     </div>
 
