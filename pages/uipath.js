@@ -112,7 +112,7 @@ const Uipath = () =>
                         </div>        
 
                         {
-                              uipathProjects.map(({name,description,image,url},i) => (
+                              uipathProjects.map(({name,description,image,url,github},i) => (
                                 
                                     <div className="col-md-4 p-2" key={i}>
                                     <div className="card h-100">
@@ -124,6 +124,8 @@ const Uipath = () =>
                                             <p className="text-center text-white">{description}</p>
                                             <div className="text-center">
                                             <a className="btn btn-info border button-card" href ={url}>Enter</a>
+                                            <a className="btn btn-success border button-card ml-2" href ={github}>Code</a>
+
                                             </div>
                                            
                                         </div>
