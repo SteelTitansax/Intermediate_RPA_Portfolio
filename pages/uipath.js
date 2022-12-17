@@ -110,7 +110,6 @@ const Uipath = () =>
                             <h3 className="text-center text-white"> Uipath</h3>
                             <hr className="bg-white "/>
                         </div>        
-                        <div className="col-md-4 p-2" />
 
                         {
                               uipathProjects.map(({name,description,image,url},i) => (
@@ -135,7 +134,6 @@ const Uipath = () =>
                           }                   
 
                         
-                    <div className="col-md-4 p-2" />
 
                     </div>
 
