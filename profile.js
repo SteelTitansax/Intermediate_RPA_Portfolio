@@ -335,7 +335,7 @@ export const projects = [
         url:"/uipath",
     },  {
         name: "Azure Devops",
-        description:"Please check our the Azure Devops development section (comming soon)",
+        description:"Please check our the Azure Devops development section",
         image:"Devops.jpg",
         url:"/devops",
     }, 
