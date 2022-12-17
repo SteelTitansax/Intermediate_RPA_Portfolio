@@ -337,7 +337,7 @@ export const projects = [
         name: "Azure Devops",
         description:"Please check our the Azure Devops development section (comming soon)",
         image:"Devops.jpg",
-        url:"/",
+        url:"/devops",
     }, 
 
 ]
@@ -385,6 +385,22 @@ export const powerAutomateDesktopProjects = [
         image:"powerautomatedesktop.jpg",
         url:"https://youtu.be/zsBtN3y9wAM",
     }
+]
+
+
+export const devopsProjects = [ 
+    {
+        name: "Power platform CI/CD ",
+        description:"Check my code",
+        image:"Devops.jpg",
+        github:""
+    },
+    {
+        name: "Uipath CI/CD pipeline",
+        description:"Check my code",
+        image:"Devops.jpg",
+        github:""
+    },
 ]
 
 export const uipathProjects = [ 
