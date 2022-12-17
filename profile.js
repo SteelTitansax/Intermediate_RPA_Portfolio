@@ -398,21 +398,26 @@ export const uipathProjects = [
         name: "RPA0002_MorningCheck",
         description:"Uipath exercise.Morning Check of libreOffice and other software.",
         image:"uipath.jpg",
+        github:"https://github.com/SteelTitansax/RPA0002_UiPathMorningCheck",
+
         url:"https://youtu.be/4gZcIk--6zY",
     },{
         name: "RPA0003 Signins",
         description:"UiPath exercise based in interact with MSGraph for retrieving azure signins",
         image:"uipath.jpg",
+        github:"https://github.com/SteelTitansax/RPA0003_GraphSignIns",
         url:"https://youtu.be/NjTy_edVLz4",
     },{
         name: "RPA0004 Sharepoint",
         description:"UiPath exercise based in interact via MSGraph with an Office365 Sharepoint",
         image:"uipath.jpg",
+        github:"https://github.com/SteelTitansax/RPA0004_Office365_Sharepoint_Interaction",
         url:"https://youtu.be/_WcSZcSI9Y4",
     },{
         name: "RPA0005 Outlook",
         description:"UiPath exercise based in interact via MSGraph with an Office365 Outlook",
         image:"uipath.jpg",
+        github:"https://github.com/SteelTitansax/RPA0005_Office365_Outlook_Interaction",
         url:"https://youtu.be/2syycbkcaiw",
     },{
         name: "RPA0006 Entities interaction",
