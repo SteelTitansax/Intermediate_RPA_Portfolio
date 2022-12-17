@@ -393,13 +393,13 @@ export const devopsProjects = [
         name: "Power platform CI/CD ",
         description:"Check my code",
         image:"Devops.jpg",
-        github:""
+        github:"https://github.com/SteelTitansax/PowerPlatform_ALM"
     },
     {
         name: "Uipath CI/CD pipeline",
         description:"Check my code",
         image:"Devops.jpg",
-        github:""
+        github:"https://github.com/SteelTitansax/UiPath_CI-CD_Pipeline"
     },
 ]
 
