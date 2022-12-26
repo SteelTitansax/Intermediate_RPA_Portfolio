@@ -20,7 +20,7 @@ const Navbar = () =>
             </Link>
 
             </li>
-            <li><Link href="/blog">
+            <li><Link href="https://profesionalwebsite-mpl.vercel.app/blog">
                  <a className="nav-link text-white" >Blog</a>
             </Link>
             </li>
