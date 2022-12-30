@@ -372,7 +372,7 @@ export const powerAutomateProjects = [
         url:"https://www.youtube.com/watch?v=FOyyHfPxPVA",
     }, {
         name: "Files Processing Email Alert Automation",
-        description:"Document detection automation. Sharepoing and Outlook Automation PoC",
+        description:"Document detection automation. Sharepoint Automation PoC",
         image:"powerautomate.jpg",
         url:"",
     }
