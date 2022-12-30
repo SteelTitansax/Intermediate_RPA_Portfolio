@@ -282,7 +282,7 @@ export const scriptingProjects =[{
     url:""
 },{
     name: "Python Azure Function",
-    description:"Azure function exercise. Interaction with Azure Graph."
+    description:"Azure function exercise. Interaction with Azure Graph.",
     image:"python2.jpg",
     github:"https://github.com/SteelTitansax/AzureFunctionGraph",
     url:""
