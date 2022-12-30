@@ -347,7 +347,7 @@ export const projects = [
 export const powerAutomateProjects = [ 
     {
         name: "Graph Provisioning Automation",
-        description:"Retrieve all the users of an Azure tenant via Azure Graph. Azure Graph Automation PoC",
+        description:"Retrieve Azure tenant users via Azure Graph. Azure Graph Automation PoC",
         image:"powerautomate.jpg",
         url:"https://youtu.be/AdqC22Itppc",
     },{
