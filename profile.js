@@ -282,7 +282,7 @@ export const scriptingProjects =[{
     url:""
 },{
     name: "Azure Function",
-    description:"Azure function exercise.Azure Graph Interaction.",
+    description:"Azure function exercise. Azure Graph Interaction.",
     image:"python2.jpg",
     github:"https://github.com/SteelTitansax/AzureFunctionGraph",
     url:""
@@ -347,32 +347,32 @@ export const projects = [
 export const powerAutomateProjects = [ 
     {
         name: "Graph Provisioning Automation",
-        description:"Check my powerAutomate automation",
+        description:"Retrieve all the users of an Azure tenant via Azure Graph. Azure Graph Automation PoC",
         image:"powerautomate.jpg",
         url:"https://youtu.be/AdqC22Itppc",
     },{
         name: "Service Degradation Alert",
-        description:"Check my powerAutomate automation",
+        description:"Retrieve all degradated services of an Azure tenant via Azure Graph and send alert email. Azure Graph Automation PoC",
         image:"powerautomate.jpg",
         url:"https://www.youtube.com/watch?v=6TVgv71HWe0",
     },{
-        name: "Minute Automation",
-        description:"Check my powerAutomate automation",
+        name: "Minute Automation", 
+        description:"Minute automation starting from MS Teams. Teams and Document Automation PoC",
         image:"powerautomate.jpg",
         url:"https://www.youtube.com/watch?v=Xy43NMHqkcM",
     },{
         name: "Bulk Ai Automation",
-        description:"Check my powerAutomate automation",
+        description:"Bulk Documents processing via Ai Builder. Sharepoint and Low Code Ai Automation PoC",
         image:"powerautomate.jpg",
         url:"https://www.youtube.com/watch?v=sLVdUGtuHqE",
     } ,{
         name: "Automated Document Creation Automation",
-        description:"Check my powerAutomate automation",
+        description:"Document creation automation. Document Automation PoC",
         image:"powerautomate.jpg",
         url:"https://www.youtube.com/watch?v=FOyyHfPxPVA",
     }, {
         name: "Files Processing Email Alert Automation",
-        description:"Check my powerAutomate automation (Demo not available)",
+        description:"Document detection automation. Sharepoing and Outlook Automation PoC",
         image:"powerautomate.jpg",
         url:"",
     }
