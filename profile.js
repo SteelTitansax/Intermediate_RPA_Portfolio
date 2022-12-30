@@ -352,7 +352,7 @@ export const powerAutomateProjects = [
         url:"https://youtu.be/AdqC22Itppc",
     },{
         name: "Service Degradation Alert",
-        description:"Retrieve Azure tenant degradated services via Azure Graph and send alert email. Azure Graph Automation PoC",
+        description:"Retrieve Azure tenant degradated services and send alert email. Azure Graph Automation PoC",
         image:"powerautomate.jpg",
         url:"https://www.youtube.com/watch?v=6TVgv71HWe0",
     },{
