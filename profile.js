@@ -264,7 +264,7 @@ export const bashProjects= [
 
 export const scriptingProjects =[{
     name: "PowerApps Report",
-    description:"PowerApps Sysadmin logged in the system",
+    description:"Powerapps environments report coded with Powershell",
     image:"powershell1.jpg",
     github:"https://github.com/SteelTitansax/PowershellAdmin",
     url:"/scripting"
@@ -282,7 +282,7 @@ export const scriptingProjects =[{
     url:""
 },{
     name: "Python Azure Function",
-    description:"Azure function retrieve data from Azure Graph (python)",
+    description:"Azure function exercise. Interaction with Azure Graph."
     image:"python2.jpg",
     github:"https://github.com/SteelTitansax/AzureFunctionGraph",
     url:""
