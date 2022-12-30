@@ -275,13 +275,13 @@ export const scriptingProjects =[{
     github:"https://github.com/SteelTitansax/ApiFlask",
     url:""
 },{
-    name: "Automation Flask App",
+    name: "Automation App",
     description:"Automation App coded in React and Flask",
     image:"flask.jpeg",
     github:"https://github.com/SteelTitansax/Automation_App_Launcher",
     url:""
 },{
-    name: "Python Azure Function",
+    name: "Azure Function",
     description:"Azure function exercise. Interaction with Azure Graph.",
     image:"python2.jpg",
     github:"https://github.com/SteelTitansax/AzureFunctionGraph",
