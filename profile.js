@@ -379,7 +379,7 @@ export const powerAutomateProjects = [
         name: "UiPath IQBot PowerAutomate Flow",
         description:"UiPath IQBot PowerAutomate automation PoC",
         image:"powerautomate.jpg",
-        url:"https://www.youtube.com/watch?v=QTrcR3gjfvw&list=PL3FqiG-8pTmETVSdn3n7qXf68sjyAbMSN&index=22"
+        url:"https://youtu.be/fQ1gy7x060w"
     }
 ]
 
