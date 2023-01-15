@@ -375,6 +375,11 @@ export const powerAutomateProjects = [
         description:"Document detection automation. Sharepoint Automation PoC",
         image:"powerautomate.jpg",
         url:"",
+    }, {
+        name: "UiPath IQBot PowerAutomate Flow",
+        description:"UiPath IQBot PowerAutomate automation PoC",
+        image:"powerautomate.jpg",
+        url:"https://www.youtube.com/watch?v=QTrcR3gjfvw&list=PL3FqiG-8pTmETVSdn3n7qXf68sjyAbMSN&index=22"
     }
 ]
 
@@ -430,10 +435,10 @@ export const uipathProjects = [
         github:"https://github.com/SteelTitansax/RPA0005_Office365_Outlook_Interaction",
         url:"https://youtu.be/2syycbkcaiw",
     },{
-        name: "RPA0006 Entities interaction",
-        description:"UiPath exercise based in interact with Uipath Entities ( no demo )",
+        name: "RPA0006 SQL Interaction",
+        description:"UiPath exercise based in interact with Azure SQL",
         image:"uipath.jpg",
-        url:"/",
+        url:"https://www.youtube.com/watch?v=uUFL8w1yt88&list=PL3FqiG-8pTmETVSdn3n7qXf68sjyAbMSN&index=21",
     },
 ]
 
