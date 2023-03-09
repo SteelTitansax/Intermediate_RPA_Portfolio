@@ -13,14 +13,14 @@ const Github = ({user, statusCode}) => {
         <Layout footer={false}>
             <div className="row mt-4">
                 <div className="col-md-4 offset-md-4">
-                    <div className="card card-body  text-center">
-                        <h3>Manuel Portero</h3>
+                    <div className="card card-body text-center">
+                        <h3 className="text-white">Manuel Portero</h3>
                         <br/>
                         <div class="center">
                                 <img src="github.png" width="100px" class="spin center" id="avatar"  draggable="false"/>
                         </div>
                         <br/>
-                        <p>Check my contributions</p>
+                        <p className="text-white">Check my contributions</p>
                         <a href="/blog" target="_blank" className="btn btn-primary border-white my-2">My Blog</a>
                         <a href={user.html_url} target="_blank" className="btn btn-primary border-white">Go to Github</a>
 
