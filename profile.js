@@ -18,6 +18,9 @@ export const skills = [
         skill: 'UiPath',
         percentage : 60,
     }, {
+        skill: 'Virtual Agents',
+        percentage : 60,
+    }, {
         skill: 'Azure Devops',
         percentage : 60,
     }
@@ -334,10 +337,10 @@ export const projects = [
         image:"uipath.jpg",
         url:"/uipath",
     },  {
-        name: "Azure Devops",
-        description:"Please check our the Azure Devops development section",
-        image:"Devops.jpg",
-        url:"/devops",
+        name: "Virtual Agents",
+        description:"Please check our the Virtual Agents section of this portfolio",
+        image:"virtualagents.jpg",
+        url:"/virtualagents",
     }, 
 
 ]
@@ -380,6 +383,11 @@ export const powerAutomateProjects = [
         description:"UiPath IQBot PowerAutomate automation PoC",
         image:"powerautomate.jpg",
         url:"https://youtu.be/fQ1gy7x060w"
+    },{
+        name: "PowerApp RPA Monitoring Tool",
+        description:"RPA Monitoring tool app solution",
+        image:"canvas.png",
+        url:"https://youtu.be/fQ1gy7x060w"
     }
 ]
 
@@ -393,12 +401,18 @@ export const powerAutomateDesktopProjects = [
 ]
 
 
-export const devopsProjects = [ 
+export const virtualAgentsProjects = [ 
     {
-        name: "Uipath CI/CD pipeline",
+        name: "factory chatbot ",
         description:"Check my code",
-        image:"Devops.jpg",
-        github:"https://github.com/SteelTitansax/UiPath_CI-CD_Pipeline"
+        image:"virtualagents.jpg",
+        github:"/"
+    },
+    {
+        name: "incidences chatbot ",
+        description:"Check my code",
+        image:"virtualagents.jpg",
+        github:"/"
     },
 ]
 
@@ -410,12 +424,11 @@ export const uipathProjects = [
         github:"https://github.com/SteelTitansax/RPA0001_GraphInteractionUsers",
         url:"https://youtu.be/45cBP2Qi0CE",
     },{
-        name: "RPA0002_MorningCheck",
-        description:"Uipath exercise.Morning Check of libreOffice and other software.",
+        name: "RPA0007_DataOrigin",
+        description:"Sharepoint Handling, Excel and Outlook Manipulation exercise.",
         image:"uipath.jpg",
-        github:"https://github.com/SteelTitansax/RPA0002_UiPathMorningCheck",
-
-        url:"https://youtu.be/4gZcIk--6zY",
+        github:"https://github.com/SteelTitansax/RPA0007_DataOrigin",
+        url:"",
     },{
         name: "RPA0003 Signins",
         description:"UiPath exercise based in interact with MSGraph for retrieving azure signins",
