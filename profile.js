@@ -403,16 +403,16 @@ export const powerAutomateDesktopProjects = [
 
 export const virtualAgentsProjects = [ 
     {
-        name: "factory chatbot ",
-        description:"Check my code",
+        name: "User's chatbot ",
+        description:"Managment user's chatbot developed with Virtual Agents and PowerAutomate",
         image:"virtualagents.jpg",
-        github:"/"
+        github:"https://www.youtube.com/watch?v=gF11v1t-1LA"
     },
     {
-        name: "incidences chatbot ",
-        description:"Check my code",
+        name: "Incidences chatbot ",
+        description:"Incidences chatbot as append for the Incidences Model Driven App solution",
         image:"virtualagents.jpg",
-        github:"/"
+        github:"https://www.youtube.com/watch?v=OMkqeQ-G6d4"
     },
 ]
 
