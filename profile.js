@@ -428,7 +428,7 @@ export const uipathProjects = [
         description:"Sharepoint Handling, Excel and Outlook Manipulation exercise.",
         image:"uipath.jpg",
         github:"https://github.com/SteelTitansax/RPA0007_DataOrigin",
-        url:"",
+        url:"https://youtu.be/2pTr8mz1CRM",
     },{
         name: "RPA0003 Signins",
         description:"UiPath exercise based in interact with MSGraph for retrieving azure signins",
