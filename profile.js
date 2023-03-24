@@ -452,7 +452,12 @@ export const uipathProjects = [
         description:"UiPath exercise based in interact with Azure SQL",
         image:"uipath.jpg",
         url:"https://www.youtube.com/watch?v=uUFL8w1yt88&list=PL3FqiG-8pTmETVSdn3n7qXf68sjyAbMSN&index=21",
-    },
+    },{
+        name: "RPA0008_WeeklyWork",
+        description:"UiPath exercise, weekly work tracker robot",
+        image:"uipath.jpg",
+        url:"https://youtu.be/8a_XXomUkrw"
+    }
 ]
 
 
