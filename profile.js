@@ -457,6 +457,11 @@ export const uipathProjects = [
         description:"UiPath exercise, weekly work tracker robot",
         image:"uipath.jpg",
         url:"https://youtu.be/8a_XXomUkrw"
+    },{
+        name: "RPA0009_OutlookWeekendBlocker",
+        description:"UiPath exercise, Outlook Weekend Blocker robot",
+        image:"uipath.jpg",
+        url:"https://youtu.be/0OpgfQFN2Hg"
     }
 ]
 
