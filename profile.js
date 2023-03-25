@@ -451,16 +451,19 @@ export const uipathProjects = [
         name: "RPA0006 SQL Interaction",
         description:"UiPath exercise based in interact with Azure SQL",
         image:"uipath.jpg",
+        github:"https://github.com/SteelTitansax/RPA0006_SQL_Interaction",
         url:"https://www.youtube.com/watch?v=uUFL8w1yt88&list=PL3FqiG-8pTmETVSdn3n7qXf68sjyAbMSN&index=21",
     },{
         name: "RPA0008_WeeklyWork",
         description:"UiPath exercise, weekly work tracker robot",
         image:"uipath.jpg",
+        github:"https://github.com/SteelTitansax/RPA0008_WeeklyWork",
         url:"https://youtu.be/8a_XXomUkrw"
     },{
         name: "RPA0009_OutlookWeekendBlocker",
         description:"UiPath exercise, Outlook Weekend Blocker robot",
         image:"uipath.jpg",
+        github:"https://github.com/SteelTitansax/RPA0009_OutlookWeekendBlocker",
         url:"https://youtu.be/0OpgfQFN2Hg"
     }
 ]
