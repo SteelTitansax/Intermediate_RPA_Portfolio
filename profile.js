@@ -471,6 +471,12 @@ export const uipathProjects = [
         image:"uipath.jpg",
         github:"https://github.com/SteelTitansax/RPA0010_MacroRegexInteraction",
         url:"https://youtu.be/N73-tLHjMbE"
+    },{
+        name: "RPA0011 PdfRegexExtraction",
+        description:"UiPath exercise, Regex data extraction",
+        image:"uipath.jpg",
+        github:"https://github.com/SteelTitansax/RPA0011_PdfRegexInteraction",
+        url:"https://youtu.be/4mPqcbpaicQ"
     }
 ]
 
