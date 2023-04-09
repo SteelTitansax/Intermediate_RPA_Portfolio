@@ -465,6 +465,12 @@ export const uipathProjects = [
         image:"uipath.jpg",
         github:"https://github.com/SteelTitansax/RPA0009_OutlookWeekendBlocker",
         url:"https://youtu.be/0OpgfQFN2Hg"
+    },{
+        name: "RPA0010_MacroRegexInteraction",
+        description:"UiPath exercise, Macro data transformation",
+        image:"uipath.jpg",
+        github:"https://github.com/SteelTitansax/RPA0010_MacroRegexInteraction",
+        url:"https://youtu.be/N73-tLHjMbE"
     }
 ]
 
