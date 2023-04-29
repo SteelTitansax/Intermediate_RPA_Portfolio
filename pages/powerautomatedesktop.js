@@ -110,7 +110,7 @@ const PowerAutomateDesktop = () =>
                             <h3 className="text-center text-white"> PowerAutomate Desktop</h3>
                             <hr className="bg-white "/>
                         </div>        
-                        <div className="col-md-3 p-2" />
+                        
 
                         {
                               powerAutomateDesktopProjects.map(({name,description,image,url},i) => (
@@ -135,7 +135,6 @@ const PowerAutomateDesktop = () =>
                           }                   
 
                         
-                    <div className="col-md-3 p-2" />
 
                     </div>
 
