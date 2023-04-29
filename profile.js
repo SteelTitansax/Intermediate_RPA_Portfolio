@@ -397,6 +397,18 @@ export const powerAutomateDesktopProjects = [
         description:"Check my powerAutomate automation",
         image:"powerautomatedesktop.jpg",
         url:"https://youtu.be/zsBtN3y9wAM",
+    },
+      {
+        name: "PdfExtraction",
+        description:"Check my powerAutomate automation",
+        image:"powerautomatedesktop.jpg",
+        url:"https://youtu.be/0lws4GTjanE",
+    },
+    {
+        name: "ExcelAutomation",
+        description:"Check my powerAutomate automation",
+        image:"powerautomatedesktop.jpg",
+        url:"https://youtu.be/LgvDlIiCuLA",
     }
 ]
 
