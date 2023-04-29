@@ -115,7 +115,7 @@ const PowerAutomateDesktop = () =>
                         {
                               powerAutomateDesktopProjects.map(({name,description,image,url},i) => (
                                 
-                                    <div className="col-md-3 p-2" key={i}>
+                                    <div className="col-md-4 p-2" key={i}>
                                     <div className="card h-100">
                                         <div className="overflow ">
                                             <img src={`/${image}`} alt="Imagen Portfolio1" className="card-img-top border-bottom" />
