@@ -59,6 +59,13 @@ export const nextSkills = [
 
 export const bashSkills = [ 
     {
+        skill: 'Azure Functions',
+        percentage : 100,
+    },
+    {
+        skill: 'Azure Automation',
+        percentage : 100,
+    },{
         skill: 'Scripting',
         percentage : 100,
     },
