@@ -312,8 +312,8 @@ export const pythonProjects= [
 
 export const projects = [ 
     {
-        name: "Scripting",
-        description:"Please check out the Scripting section of this portfolio",
+        name: "Scripting/Cloud Development",
+        description:"Please check out the Scripting/Cloud Development section of this portfolio",
         image:"scripting.jpg",
         url:"/scripting",
     }, {
