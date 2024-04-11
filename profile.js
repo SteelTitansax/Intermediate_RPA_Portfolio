@@ -309,11 +309,11 @@ export const scriptingProjects =[{
     github:"https://github.com/SteelTitansax/AzureFunctionGraph",
     url:""
 },{
-    name: "Azure Automation - Selenium Hibrid Worker",
-    description:"Azure Automation Hibrid Worker (Python) runs Selenium Script for data web scrapping purposes.(Comming soon)",
+    name: "Azure Automation - VM Automation",
+    description:"Azure Automation. VM manipulation exercise.",
     image:"AzureAutomation.jpg",
-    github:"",
-    url:""
+    github:"/scripting",
+    url:"https://www.youtube.com/watch?v=Fz-mvWPsWRc"
 }
 ]
 export const pythonProjects= [
@@ -408,10 +408,15 @@ export const powerAutomateProjects = [
         image:"powerautomate.jpg",
         url:"https://youtu.be/fQ1gy7x060w"
     },{
+        name: "Calendar Teams automation",
+        description:"Calendar teams automation PoC",
+        image:"Powerautomate.png",
+        url:"https://www.youtube.com/watch?v=WiWwE6BaqOE"
+    },{
         name: "PowerApp RPA Monitoring Tool",
         description:"RPA Monitoring tool app solution",
         image:"canvas.png",
-        url:"https://youtu.be/fQ1gy7x060w"
+        url:"https://www.youtube.com/watch?v=1eZs-ZMDvl4"
     }
 ]
 
