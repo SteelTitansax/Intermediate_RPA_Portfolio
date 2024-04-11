@@ -10,6 +10,12 @@ export const skills = [
     },{
         skill: 'Python',
         percentage : 100,
+    }, {
+        skill: 'Azure functions',
+        percentage : 100,
+    }, {
+        skill: 'Azure Automation',
+        percentage : 100,
     },
     {
         skill: 'PowerAutomate (Web)/(Desktop)',
