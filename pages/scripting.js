@@ -19,9 +19,9 @@ const Scripting = () =>
                     <img src="scripting.jpg" className="mt-1" height="95px" alt="Bash perfil"/>
                 </div>
                 <div className="col-md-10">
-                    <h1>Scripting</h1>
+                    <h1>Scripting/Cloud Development</h1>
                     <h3>Coding technique </h3> 
-                    <h6 style={{paddingTop:'8px'}}>This section gather diferent scripting technologies like python bash or powershell .</h6>
+                    <h6 style={{paddingTop:'8px'}}>This section gather diferent scripting technologies like python bash or powershell and some cloud development projects.</h6>
                    
                 </div>
             </div>
@@ -114,7 +114,7 @@ const Scripting = () =>
                         {
                               scriptingProjects.map(({name,description,image,url,github},i) => (
                                 
-                                    <div className="col-md-3 p-2" key={i}>
+                                    <div className="col-md-4 p-2" key={i}>
                                     <div className="card h-100">
                                         <div className="overflow ">
                                             <img src={`/${image}`} alt="Imagen Portfolio1" className="card-img-top border-bottom" />
