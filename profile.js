@@ -13,10 +13,10 @@ export const skills = [
     },
     {
         skill: 'PowerAutomate (Web)/(Desktop)',
-        percentage : 80,
+        percentage : 100,
     }, {
         skill: 'UiPath',
-        percentage : 60,
+        percentage : 100,
     }, {
         skill: 'Virtual Agents',
         percentage : 60,
