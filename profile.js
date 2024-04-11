@@ -286,19 +286,19 @@ export const scriptingProjects =[{
 },{
     name: "Azure Function - Graph interaction",
     description:"Azure function exercise. Azure Graph Interaction.(No demo available)",
-    image:"python2.jpg",
+    image:"AzureFunctions.png",
     github:"https://github.com/SteelTitansax/AzureFunctionGraph",
     url:""
 },{
     name: "Azure Function - Image Recognition",
     description:"Azure function exercise.Blob storage trigger connect with Image Recognition for image classification tasks",
-    image:"python2.jpg",
+    image:"AzureFunctions.png",
     github:"https://github.com/SteelTitansax/AzureFunctionGraph",
     url:""
 },{
     name: "Azure Automation - Selenium Hibrid Worker",
     description:"Azure Automation Hibrid Worker (Python) runs Selenium Script for data web scrapping purposes.(Comming soon)",
-    image:"python2.jpg",
+    image:"AzureAutomation.png",
     github:"",
     url:""
 }
