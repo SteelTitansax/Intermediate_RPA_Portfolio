@@ -304,7 +304,7 @@ export const scriptingProjects =[{
     url:""
 },{
     name: "Azure Function - Image Recognition",
-    description:"Azure function exercise.Blob storage trigger connect with Image Recognition for image classification tasks",
+    description:"Blob storage trigger connect with Image Recognition for image classification tasks",
     image:"AzureFunctions.jpg",
     github:"https://github.com/SteelTitansax/AzureFunctionGraph",
     url:""
