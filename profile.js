@@ -410,7 +410,7 @@ export const powerAutomateProjects = [
     },{
         name: "Calendar Teams automation",
         description:"Calendar teams automation PoC",
-        image:"Powerautomate.jpg",
+        image:"powerautomate.jpg",
         url:"https://www.youtube.com/watch?v=WiWwE6BaqOE"
     },{
         name: "PowerApp RPA Monitoring Tool",
