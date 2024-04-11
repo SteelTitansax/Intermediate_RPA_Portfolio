@@ -264,16 +264,16 @@ export const bashProjects= [
     }
     
 ]
-
+ 
 export const scriptingProjects =[{
     name: "PowerApps Report",
-    description:"Powerapps environments report coded with Powershell",
+    description:"Powerapps environments report coded with Powershell (No demo available)",
     image:"powershell1.jpg",
     github:"https://github.com/SteelTitansax/PowershellAdmin",
     url:"/scripting"
 },{
     name: "Api Flask",
-    description:"Api Flask project coded in python and linked to Sqlite",
+    description:"Api Flask project coded in python and linked to Sqlite (No demo available)",
     image:"flask.jpeg",
     github:"https://github.com/SteelTitansax/ApiFlask",
     url:""
@@ -282,15 +282,26 @@ export const scriptingProjects =[{
     description:"Automation App coded in React and Flask",
     image:"flask.jpeg",
     github:"https://github.com/SteelTitansax/Automation_App_Launcher",
-    url:""
+    url:"https://www.youtube.com/watch?v=m0hqxM6G7t4"
 },{
-    name: "Azure Function",
-    description:"Azure function exercise. Azure Graph Interaction.",
+    name: "Azure Function - Graph interaction",
+    description:"Azure function exercise. Azure Graph Interaction.(No demo available)",
     image:"python2.jpg",
     github:"https://github.com/SteelTitansax/AzureFunctionGraph",
     url:""
+},{
+    name: "Azure Function - Image Recognition",
+    description:"Azure function exercise.Blob storage trigger connect with Image Recognition for image classification tasks",
+    image:"python2.jpg",
+    github:"https://github.com/SteelTitansax/AzureFunctionGraph",
+    url:""
+},{
+    name: "Azure Automation - Selenium Hibrid Worker",
+    description:"Azure Automation Hibrid Worker (Python) runs Selenium Script for data web scrapping purposes.(Comming soon)",
+    image:"python2.jpg",
+    github:"",
+    url:""
 }
-
 ]
 export const pythonProjects= [
     {
