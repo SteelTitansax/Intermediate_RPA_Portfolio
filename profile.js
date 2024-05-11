@@ -531,7 +531,7 @@ export const seleniumProjects = [
         github:"https://github.com/SteelTitansax/Selenium1"
     }, {
         name: "Web testing 2",
-        description:"Check my Selenium test robot",
+        description:"Check my Selenium test robot (code not available)",
         image:"selenium.jpg",
         url:"https://youtu.be/sUu4mH5HPVs",
     }
