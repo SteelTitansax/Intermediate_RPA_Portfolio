@@ -528,6 +528,7 @@ export const seleniumProjects = [
         description:"Check my Selenium test robot",
         image:"selenium.jpg",
         url:"https://youtu.be/IZKGL08C40U",
+        github:"https://github.com/SteelTitansax/Selenium1"
     }, {
         name: "Web testing 2",
         description:"Check my Selenium test robot",
