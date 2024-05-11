@@ -307,7 +307,7 @@ export const scriptingProjects =[{
     description:"Blob storage trigger connect with Image Recognition for image classification tasks",
     image:"AzureFunctions.jpg",
     github:"https://github.com/SteelTitansax/AzureFunctionGraph",
-    url:""
+    url:"https://www.youtube.com/watch?v=XYWfwBiJKlc"
 },{
     name: "Azure Automation - VM Automation",
     description:"Azure Automation. VM manipulation exercise.",
