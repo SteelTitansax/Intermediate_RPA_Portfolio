@@ -413,6 +413,11 @@ export const powerAutomateProjects = [
         image:"powerautomate.jpg",
         url:"https://www.youtube.com/watch?v=WiWwE6BaqOE"
     },{
+        name: "Office Script Automation",
+        description:"OfficeScript automation PoC",
+        image:"powerautomate.jpg",
+        url:"https://www.youtube.com/watch?v=ZTazLf8fbU0"
+    },{
         name: "PowerApp RPA Monitoring Tool",
         description:"RPA Monitoring tool app solution",
         image:"canvas.png",
