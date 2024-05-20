@@ -309,6 +309,12 @@ export const scriptingProjects =[{
     github:"https://github.com/SteelTitansax/AzureFunctionGraph",
     url:"https://www.youtube.com/watch?v=XYWfwBiJKlc"
 },{
+    name: "Azure Function - Approvals funtion",
+    description:" Http request triggers interconnected with an approvals adaptative card",
+    image:"AzureFunctions.jpg",
+    github:"",
+    url:""
+},{
     name: "Azure Automation - VM Automation",
     description:"Azure Automation. VM manipulation exercise.",
     image:"AzureAutomation.jpg",
