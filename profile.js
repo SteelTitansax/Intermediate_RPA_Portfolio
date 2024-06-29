@@ -315,6 +315,12 @@ export const scriptingProjects =[{
     github:"https://github.com/SteelTitansax/aFunctionApprovals",
     url:"https://www.youtube.com/watch?v=K2tiYUocBQU"
 },{
+    name: "Azure Function - Cosmos Energy Prediction",
+    description:" Cosmos trigger function predicts energy consum via internal ML model",
+    image:"AzureFunctions.jpg",
+    github:"https://github.com/SteelTitansax/EnergyPredictionSolution",
+    url:"https://www.youtube.com/watch?v=DAkwIniUQ4I"
+},{
     name: "Azure Automation - VM Automation",
     description:"Azure Automation. VM manipulation exercise.",
     image:"AzureAutomation.jpg",
