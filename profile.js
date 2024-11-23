@@ -460,6 +460,12 @@ export const powerAutomateDesktopProjects = [
         description:"Check my powerAutomate automation",
         image:"powerautomatedesktop.jpg",
         url:"https://youtu.be/LgvDlIiCuLA",
+    },
+    {
+        name: "PAD Framework",
+        description:"Check my PAD framework",
+        image:"powerautomatedesktop.jpg",
+        url:"https://www.youtube.com/watch?v=61OHhNidrNc",
     }
 ]
 
