@@ -326,7 +326,14 @@ export const scriptingProjects =[{
     image:"AzureAutomation.jpg",
     github:"/scripting",
     url:"https://www.youtube.com/watch?v=Fz-mvWPsWRc"
+},{
+    name: "Django REST Framework API",
+    description:"Django authenticated API exercise.(no demo)",
+    image:"django.jpg",
+    github:"https://github.com/SteelTitansax/django-rest-framework-api",
+    url:"/scripting"
 }
+]
 ]
 export const pythonProjects= [
     {
