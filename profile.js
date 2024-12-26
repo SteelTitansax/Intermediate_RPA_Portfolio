@@ -329,7 +329,7 @@ export const scriptingProjects =[{
 },{
     name: "Django REST Framework API",
     description:"Django authenticated API exercise.(no demo)",
-    image:"django.jpg",
+    image:"django.jpeg",
     github:"https://github.com/SteelTitansax/django-rest-framework-api",
     url:"/scripting"
 }
